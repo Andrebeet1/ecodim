@@ -1,4 +1,6 @@
 flask
-transformers
-torch==2.2.2
 gunicorn
+torch
+transformers
+numpy<2
+
